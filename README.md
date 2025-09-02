@@ -1,6 +1,6 @@
 # 💻 KATETA TECHNOLOGIES
 
-![Collinx Kateta Profile Picture](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/JJS_7231d_resized (1).jpg?raw=true) <!-- You can replace this with your actual profile image URL if you have a preferred one -->
+![Collinx Kateta Profile Picture](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/JJS_7231d_resized-for-profile.jpg?raw=true) <!-- You can replace this with your actual profile image URL if you have a preferred one -->
 
 ---
 
@@ -70,8 +70,9 @@ I believe in the power of technology to unite, inspire, and uplift. Every line o
 ### 📸 Gallery
 
 <!-- You can add images/screenshots of your work here! Example: -->
-![Sample Animation](https://your-image-url.com/sample-animation.png)
-![Game Screenshot](https://your-image-url.com/sample-game.png)
+![python logo](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/python.png?raw=true)
+![javascript logo](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/java-script.png?raw=true)
+![head logo](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/nlp.png?raw=true)
 
 ---
 
