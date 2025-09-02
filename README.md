@@ -1,6 +1,6 @@
 # 💻 KATETA TECHNOLOGIES
 
-![Collinx Kateta Profile Picture](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/JJS_7231d.jpg?raw=true alt="Collinx Kateta Profile Picture" width="180" height="180" style="border-radius:50%;") <!-- You can replace this with your actual profile image URL if you have a preferred one -->
+![Collinx Kateta Profile Picture](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/JJS_7231d_resized (1).jpg?raw=true) <!-- You can replace this with your actual profile image URL if you have a preferred one -->
 
 ---
 
