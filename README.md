@@ -1,6 +1,6 @@
 # 💻 KATETA TECHNOLOGIES
 
-![Collinx Kateta Profile Picture](https://avatars.githubusercontent.com/u/Assochemm?v=4) <!-- You can replace this with your actual profile image URL if you have a preferred one -->
+![Collinx Kateta Profile Picture](https://github.com/Assochemm/KATETA-TECHNOLOGIES/blob/main/nlp.png?raw=true) <!-- You can replace this with your actual profile image URL if you have a preferred one -->
 
 ---
 
